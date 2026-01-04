@@ -2,16 +2,24 @@
 
 # 👋 Hey, I'm Eric Raymond
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Software+Engineer;Purdue+University+%F0%9F%9A%80;Building+Edge+AI+%26+Autonomous+Systems;Privacy-First+Applications)](https://git.io/typing-svg)
+<!-- Fixed width to 750 to prevent text cutoff -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=AI+%26+Software+Engineer;Purdue+University+%F0%9F%9A%80;Building+Edge+AI+%26+Autonomous+Systems;Privacy-First+Applications)](https://git.io/typing-svg)
 
+<!-- Portfolio Spotlight Section -->
 <a href="https://raayraay69.github.io/eric-catalog/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D4AA?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌟_Visit_My_Interactive_Portfolio-raayraay69.github.io-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=black" height="40" alt="Portfolio Showcase" />
 </a>
+
+<br/><br/>
+
 <a href="https://linkedin.com/in/eric--raymond">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://orcid.org/0009-0009-9560-0060">
   <img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 </div>
@@ -27,7 +35,7 @@ class EricRaymond:
     def __init__(self):
         self.role: str = "AI & Software Engineer"
         self.education: str = "B.S. Artificial Intelligence @ Purdue University"
-        self.expected_graduation: str = "2026"
+        self.graduation: str = "2026"
 
         self.focus_areas: List[str] = [
             "On-Device AI",
@@ -52,25 +60,9 @@ class EricRaymond:
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI/ML & Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![ARKit](https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+| **Languages** | **AI & Frameworks** | **Tools & Platforms** |
+|:---:|:---:|:---:|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) <br> ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) <br> ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) <br> ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) <br> ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) <br> ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) <br> ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white) <br> ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 
 </div>
 
@@ -80,13 +72,13 @@ class EricRaymond:
 
 <div align="center">
 
-| Project | Description | Tech |
+| Project | Description | Tech & Tags |
 |:-------:|:------------|:-----|
-| **🧠 [Clarity AI](https://github.com/raayraay69)** | Private AI journaling companion with fully offline inference, 3D visualizations & sentiment tracking | `On-Device AI` `3D Graphics` `Privacy-First` |
-| **📱 [Box-Black](https://github.com/raayraay69)** | Autonomous AI agent platform for mobile with local LLMs for multi-step tasks | `Edge AI` `Autonomous Agents` `Native Runtime` |
-| **🔍 [BlueLedger](https://github.com/raayraay69)** | Police accountability tracking platform combining public incident data with community oversight | `Civic Tech` `Crowdsourced Data` `Social Impact` |
-| **🔬 [MindBloom EEG](https://github.com/raayraay69/mindbloom-eeg)** | EEG-based schizophrenia assessment: research paper, ML pipeline & web application | `ML Pipeline` `Healthcare AI` `Research` |
-| **🤖 [Gemini CLI](https://github.com/raayraay69/gemini-cli)** | Open-source AI agent bringing Gemini directly into your terminal | `TypeScript` `CLI Tools` `AI Agents` |[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQFY-UhIBuI9LmYILE6MJZPyMVIU4u5y2xAv1Ga16veiyd-lADxp7uVOW8PE4YcihJBCgz6Zb6jk8XxdkLEU5j5Kqdtn6PYj9VvHOQlvJ2Ql0yxze6NCM9USGcwc28ijrIStl6uG04mHcDVyF1Y_6YHZgT5pxbSaBL9Ox7peMu_ggzyzbdIMLwM-S87itm1jHTS9iRmEw_DV-xPiew3VABQrWdzMgtgtwCkD)][[2](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQGb6DP6xSbB6OjdFuVZimKjTzaPfb_KHbvAw7FlqTddMkGYf3L0g8LdAELOZ0wu5sCg6OMyl400KD2v6U9jEPoGp6np70BCwl8LCuzk1MyuDPKYUGdws5k2rVvjNpF_2WyPvzCtpsohrUI9I9Dzm50Ms6LKEAs_ZljV)]
+| **🧠 [Clarity AI](https://github.com/raayraay69)** | Private AI journaling companion with fully offline inference, 3D visualizations & sentiment tracking. | `On-Device AI` `3D Graphics` `Privacy` |
+| **📱 [Box-Black](https://github.com/raayraay69)** | Autonomous AI agent platform for mobile with local LLMs for multi-step tasks. | `Edge AI` `Agents` `Native Runtime` |
+| **🔍 [BlueLedger](https://github.com/raayraay69)** | Police accountability tracking platform combining public incident data with community oversight. | `Civic Tech` `Crowdsourcing` `Impact` |
+| **🔬 [MindBloom EEG](https://github.com/raayraay69/mindbloom-eeg)** | EEG-based schizophrenia assessment: research paper, ML pipeline & web application. | `Healthcare AI` `Research` `ML Pipeline` |
+| **🤖 [Gemini CLI](https://github.com/raayraay69/gemini-cli)** | Open-source AI agent bringing Gemini directly into your terminal. | `TypeScript` `CLI` `GenAI` |
 
 </div>
 
@@ -96,24 +88,23 @@ class EricRaymond:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=raayraay69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raayraay69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+<!-- Trophies -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=raayraay69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
+</a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<!-- Stats Cards -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=raayraay69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raayraay69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Languages" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raayraay69&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+<br/><br/>
 
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=raayraay69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+<!-- Streak -->
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raayraay69&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</a>
 
 </div>
 
@@ -135,14 +126,17 @@ class EricRaymond:
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=raayraay69&style=for-the-badge&color=58A6FF" alt="Profile Views" />
 
-**Thanks for visiting! Let's build something amazing together 🚀**
+<br/>
 
+<!-- Footer Portfolio Link -->
 <a href="https://raayraay69.github.io/eric-catalog/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D4AA?style=for-the-badge&logoColor=white" alt="Visit Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-raayraay69.github.io-00D4AA?style=for-the-badge&logoColor=white" alt="Visit Portfolio" />
 </a>
+
+**Thanks for visiting! Let's build something amazing together 🚀**
 
 </div>

@@ -1,8 +1,40 @@
 <div align="center">
 
+# 👋 Hey, I'm Eric Raymond
+
+<!-- Switched to HTML img tag to force it to render correctly -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=700&lines=AI+%26+Software+Engineer;Purdue+University+%F0%9F%9A%80;Building+Edge+AI+%26+Autonomous+Systems;Privacy-First+Applications" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Portfolio Spotlight -->
+<a href="https://raayraay69.github.io/eric-catalog/">
+  <img src="https://img.shields.io/badge/🌟_Visit_My_Interactive_Portfolio-raayraay69.github.io-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=black" height="35" alt="Portfolio Showcase" />
+</a>
+
+<br/><br/>
+
+<!-- Social Links -->
+<a href="https://linkedin.com/in/eric--raymond">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://orcid.org/0009-0009-9560-0060">
+  <img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
 ## 🧠 About Me
 
-<!-- Switched from Code Block to Visual Text so it renders cleanly -->
 > **"Building intelligent systems that operate at the edge 🚀"**
 
 <br/>

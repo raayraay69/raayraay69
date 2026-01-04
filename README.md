@@ -1,64 +1,23 @@
 <div align="center">
 
-# 👋 Hey, I'm Eric Raymond
+## 🧠 About Me
 
-<!-- Fixed width to 750 to prevent text cutoff -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=750&lines=AI+%26+Software+Engineer;Purdue+University+%F0%9F%9A%80;Building+Edge+AI+%26+Autonomous+Systems;Privacy-First+Applications)](https://git.io/typing-svg)
+<!-- Switched from Code Block to Visual Text so it renders cleanly -->
+> **"Building intelligent systems that operate at the edge 🚀"**
 
-<!-- Portfolio Spotlight Section -->
-<a href="https://raayraay69.github.io/eric-catalog/">
-  <img src="https://img.shields.io/badge/🌟_Visit_My_Interactive_Portfolio-raayraay69.github.io-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=black" height="40" alt="Portfolio Showcase" />
-</a>
+<br/>
 
-<br/><br/>
-
-<a href="https://linkedin.com/in/eric--raymond">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://orcid.org/0009-0009-9560-0060">
-  <img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+| **🎓 Education** | **🔭 Focus Areas** | **🤔 Exploring** |
+|:---:|:---:|:---:|
+| **B.S. Artificial Intelligence**<br>@ Purdue University<br>*(Class of 2026)* | 📱 **On-Device AI**<br>🤖 **Autonomous Agents**<br>🔒 **Privacy-First Apps** | 👁️ **Computer Vision**<br>🦾 **Robotics**<br>🖥️ **HCI** |
 
 </div>
 
 ---
 
-## 🧠 About Me
-
-```python
-from typing import List
-
-class EricRaymond:
-    def __init__(self):
-        self.role: str = "AI & Software Engineer"
-        self.education: str = "B.S. Artificial Intelligence @ Purdue University"
-        self.graduation: str = "2026"
-
-        self.focus_areas: List[str] = [
-            "On-Device AI",
-            "Autonomous Agents",
-            "Privacy-First Applications",
-            "Edge Computing"
-        ]
-
-        self.currently_exploring: List[str] = [
-            "Robotics 🤖",
-            "Computer Vision 👁️",
-            "Human-Computer Interaction 🖥️"
-        ]
-
-    def life_motto(self) -> str:
-        return "Building intelligent systems that operate at the edge 🚀"
-```
-
----
+<div align="center">
 
 ## 🛠️ Tech Stack
-
-<div align="center">
 
 | **Languages** | **AI & Frameworks** | **Tools & Platforms** |
 |:---:|:---:|:---:|
@@ -84,9 +43,9 @@ class EricRaymond:
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
+
+## 📊 GitHub Stats
 
 <!-- Trophies -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -132,7 +91,6 @@ class EricRaymond:
 
 <br/>
 
-<!-- Footer Portfolio Link -->
 <a href="https://raayraay69.github.io/eric-catalog/">
   <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-raayraay69.github.io-00D4AA?style=for-the-badge&logoColor=white" alt="Visit Portfolio" />
 </a>

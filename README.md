@@ -1,26 +1,26 @@
 <div align="center">
 
-  # 👋 Hey, I'm Eric Raymond
+# 👋 Hey, I'm Eric Raymond
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Software+Engineer;Purdue+University+%F0%9F%9A%80;Building+Edge+AI+%26+Autonomous+Systems;Privacy-First+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=AI+%26+Software+Engineer;Purdue+University+%F0%9F%9A%80;Building+Edge+AI+%26+Autonomous+Systems;Privacy-First+Applications)](https://git.io/typing-svg)
 
-  <a href="https://raayraay69.github.io/eric-catalog/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D4AA?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>a>
-  <a href="https://linkedin.com/in/eric--raymond">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>a>
-  <a href="https://orcid.org/0009-0009-9560-0060">
-    <img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>a>
+<a href="https://raayraay69.github.io/eric-catalog/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D4AA?style=for-the-badge&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://linkedin.com/in/eric--raymond">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://orcid.org/0009-0009-9560-0060">
+  <img src="https://img.shields.io/badge/ORCID-Research-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+</a>
 
-  </div>
+</div>
 
-  ---
+---
 
-  ## 🧠 About Me
+## 🧠 About Me
 
-  ```python
+```python
 class EricRaymond:
     def __init__(self):
         self.role = "AI & Software Engineer"
@@ -93,52 +93,50 @@ class EricRaymond:
 ## 📊 GitHub Stats
 
 <div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raayraay69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raayraay69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+</div>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raayraay69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raayraay69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+<div align="center">
 
-  </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raayraay69&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
-  <div align="center">
+</div>
 
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=raayraay69&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+---
 
-    </div>
+## 🏆 Achievements
 
-    ---
+<div align="center">
 
-    ## 🏆 Achievements
+![Trophies](https://github-profile-trophy.vercel.app/?username=raayraay69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
 
-    <div align="center">
+</div>
 
-    ![Trophies](https://github-profile-trophy.vercel.app/?username=raayraay69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+---
 
-    </div>
+## 📈 Contribution Graph
 
-    ---
+<div align="center">
 
-    ## 📈 Contribution Graph
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raayraay69&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-    <div align="center">
+</div>
 
-    [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raayraay69&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-    </div>
+<div align="center">
 
-    ---
+### 💭 Random Dev Quote
 
-    <div align="center">
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-      ### 💭 Random Dev Quote
+---
 
-      ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://komarev.com/ghpvc/?username=raayraay69&style=for-the-badge&color=58A6FF" alt="Profile Views" />
 
-      ---
+**Thanks for visiting! Let's build something amazing together 🚀**
 
-      <img src="https://komarev.com/ghpvc/?username=raayraay69&style=for-the-badge&color=58A6FF" alt="Profile Views" />
+[![Portfolio](https://img.shields.io/badge/🌐_Check_Out_My_Portfolio-raayraay69.github.io/eric--catalog-00D4AA?style=for-the-badge)](https://raayraay69.github.io/eric-catalog/)
 
-      **Thanks for visiting! Let's build something amazing together 🚀**
-
-      [![Portfolio](https://img.shields.io/badge/🌐_Check_Out_My_Portfolio-raayraay69.github.io/eric--catalog-00D4AA?style=for-the-badge)](https://raayraay69.github.io/eric-catalog/)
-
-      </div>
+</div>

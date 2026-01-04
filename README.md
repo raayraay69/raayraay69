@@ -21,26 +21,28 @@
 ## 🧠 About Me
 
 ```python
+from typing import List
+
 class EricRaymond:
     def __init__(self):
-        self.role = "AI & Software Engineer"
-        self.education = "B.S. Artificial Intelligence @ Purdue University"
-        self.expected_graduation = "2026"
+        self.role: str = "AI & Software Engineer"
+        self.education: str = "B.S. Artificial Intelligence @ Purdue University"
+        self.expected_graduation: str = "2026"
 
-        self.focus_areas = [
+        self.focus_areas: List[str] = [
             "On-Device AI",
             "Autonomous Agents",
             "Privacy-First Applications",
             "Edge Computing"
         ]
 
-        self.currently_exploring = [
+        self.currently_exploring: List[str] = [
             "Robotics 🤖",
             "Computer Vision 👁️",
             "Human-Computer Interaction 🖥️"
         ]
 
-    def life_motto(self):
+    def life_motto(self) -> str:
         return "Building intelligent systems that operate at the edge 🚀"
 ```
 
@@ -79,12 +81,12 @@ class EricRaymond:
 <div align="center">
 
 | Project | Description | Tech |
-|---------|-------------|------|
+|:-------:|:------------|:-----|
 | **🧠 [Clarity AI](https://github.com/raayraay69)** | Private AI journaling companion with fully offline inference, 3D visualizations & sentiment tracking | `On-Device AI` `3D Graphics` `Privacy-First` |
 | **📱 [Box-Black](https://github.com/raayraay69)** | Autonomous AI agent platform for mobile with local LLMs for multi-step tasks | `Edge AI` `Autonomous Agents` `Native Runtime` |
 | **🔍 [BlueLedger](https://github.com/raayraay69)** | Police accountability tracking platform combining public incident data with community oversight | `Civic Tech` `Crowdsourced Data` `Social Impact` |
 | **🔬 [MindBloom EEG](https://github.com/raayraay69/mindbloom-eeg)** | EEG-based schizophrenia assessment: research paper, ML pipeline & web application | `ML Pipeline` `Healthcare AI` `Research` |
-| **🤖 [Gemini CLI](https://github.com/raayraay69/gemini-cli)** | Open-source AI agent bringing Gemini directly into your terminal | `TypeScript` `CLI Tools` `AI Agents` |
+| **🤖 [Gemini CLI](https://github.com/raayraay69/gemini-cli)** | Open-source AI agent bringing Gemini directly into your terminal | `TypeScript` `CLI Tools` `AI Agents` |[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQFY-UhIBuI9LmYILE6MJZPyMVIU4u5y2xAv1Ga16veiyd-lADxp7uVOW8PE4YcihJBCgz6Zb6jk8XxdkLEU5j5Kqdtn6PYj9VvHOQlvJ2Ql0yxze6NCM9USGcwc28ijrIStl6uG04mHcDVyF1Y_6YHZgT5pxbSaBL9Ox7peMu_ggzyzbdIMLwM-S87itm1jHTS9iRmEw_DV-xPiew3VABQrWdzMgtgtwCkD)][[2](https://www.google.com/url?sa=E&q=https%3A%2F%2Fvertexaisearch.cloud.google.com%2Fgrounding-api-redirect%2FAUZIYQGb6DP6xSbB6OjdFuVZimKjTzaPfb_KHbvAw7FlqTddMkGYf3L0g8LdAELOZ0wu5sCg6OMyl400KD2v6U9jEPoGp6np70BCwl8LCuzk1MyuDPKYUGdws5k2rVvjNpF_2WyPvzCtpsohrUI9I9Dzm50Ms6LKEAs_ZljV)]
 
 </div>
 
@@ -93,8 +95,10 @@ class EricRaymond:
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raayraay69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raayraay69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=raayraay69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raayraay69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+
 </div>
 
 <div align="center">
@@ -137,6 +141,8 @@ class EricRaymond:
 
 **Thanks for visiting! Let's build something amazing together 🚀**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Check_Out_My_Portfolio-raayraay69.github.io/eric--catalog-00D4AA?style=for-the-badge)](https://raayraay69.github.io/eric-catalog/)
+<a href="https://raayraay69.github.io/eric-catalog/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D4AA?style=for-the-badge&logoColor=white" alt="Visit Portfolio" />
+</a>
 
 </div>

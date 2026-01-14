@@ -1,28 +1,24 @@
 <div align="center">
 
-<!-- Header Section -->
-<img src="https://raw.githubusercontent.com/raayraay69/raayraay69/main/banner.png" alt="Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px; display: none;"> <!-- Placeholder for future banner -->
+<img src="https://raw.githubusercontent.com/raayraay69/raayraay69/main/banner.png" alt="Banner" width="100%" style="border-radius: 10px; margin-bottom: 20px; display: none;"> 
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   Hey, I'm Eric Raymond
 </h1>
 
-<!-- Dynamic Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Software+Engineer;Purdue+University+%F0%9F%9A%80;Building+Edge+AI+%26+Autonomous+Systems;Privacy-First+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+%26+Software+Engineer;Purdue+University+Senior+%F0%9F%9A%80;Building+Edge+AI+%26+Autonomous+Systems;Privacy-First+Applications;iOS+%26+Robotics+Developer" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<!-- Primary CTA -->
 <a href="https://raayraay69.github.io/eric-catalog/">
   <img src="https://img.shields.io/badge/🌟_Interactive_Portfolio-Visit_Now-FFD700?style=for-the-badge&logo=github&logoColor=black&labelColor=black&borderRadius=5" height="35" alt="Portfolio" />
 </a>
 
 <br/><br/>
 
-<!-- Social Links Bar -->
 <div>
   <a href="https://linkedin.com/in/eric--raymond">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -37,74 +33,52 @@
 
 </div>
 
----
+<br/>
 
-<style>
-  /* Custom CSS for advanced styling */
-  .section-title { font-size: 1.5rem; font-weight: bold; color: #58A6FF; margin-bottom: 1rem; }
-  .grid-container { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; }
-  
-  /* Card Styles */
-  .card {
-    background-color: #161b22;
-    border: 1px solid #30363d;
-    border-radius: 8px;
-    padding: 1.5rem;
-    transition: transform 0.2s ease-in-out, border-color 0.2s ease;
-    height: 100%;
-  }
-  .card:hover { transform: translateY(-5px); border-color: #58A6FF; }
-  .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem; }
-  .card-title { font-weight: bold; font-size: 1.1rem; color: #f0f6fc; }
-  .card-desc { font-size: 0.9rem; color: #8b949e; line-height: 1.5; margin-bottom: 1rem; }
-  
-  /* Tech Tags */
-  .tech-stack { display: flex; flex-wrap: wrap; gap: 0.5rem; }
-  .tech-tag { font-size: 0.75rem; background-color: #21262d; color: #58A6FF; padding: 0.2rem 0.6rem; border-radius: 12px; border: 1px solid #30363d; }
-  
-  /* About Me Section Styling */
-  .about-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1rem; text-align: center; }
-  .about-item { background: #161b22; padding: 1rem; border-radius: 6px; border: 1px solid #30363d; }
-  .about-icon { font-size: 2rem; margin-bottom: 0.5rem; display: block; }
-  .about-head { font-weight: bold; color: #f0f6fc; display: block; margin-bottom: 0.5rem; }
-  .about-text { font-size: 0.9rem; color: #8b949e; }
-  
-  /* Stats Container */
-  .stats-container { display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem; }
-  .stats-container img { height: 180px; }
-</style>
-
+<h2 align="center">🧠 About Me</h2>
 <div align="center">
+  <i>"Building intelligent systems that operate at the edge 🚀"</i>
+</div>
+<br/>
 
-## 🧠 About Me
-
-> "Building intelligent systems that operate at the edge 🚀"
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="33%">
+      <br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Education" width="40" />
+      <br>
+      <b>Education</b>
+      <br><br>
+      B.S. Artificial Intelligence<br>
+      @ Purdue University<br>
+      (Class of 2026)
+    </td>
+    <td align="center" width="33%">
+      <br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Focus" width="40" />
+      <br>
+      <b>Focus Areas</b>
+      <br><br>
+      📱 On-Device AI<br>
+      🤖 Autonomous Agents<br>
+      🔒 Privacy-First Apps
+    </td>
+    <td align="center" width="33%">
+      <br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" alt="Exploring" width="40" />
+      <br>
+      <b>Exploring</b>
+      <br><br>
+      👁️ Computer Vision<br>
+      🦾 Robotics (ROS)<br>
+      🖥️ HCI
+    </td>
+  </tr>
+</table>
 
 <br/>
 
-<div class="about-grid">
-  <div class="about-item">
-    <span class="about-icon">🎓</span>
-    <span class="about-head">Education</span>
-    <span class="about-text">B.S. Artificial Intelligence<br>@ Purdue University<br>(Class of 2026)</span>
-  </div>
-  <div class="about-item">
-    <span class="about-icon">🔭</span>
-    <span class="about-head">Focus Areas</span>
-    <span class="about-text">📱 On-Device AI<br>🤖 Autonomous Agents<br>🔒 Privacy-First Apps</span>
-  </div>
-  <div class="about-item">
-    <span class="about-icon">🤔</span>
-    <span class="about-head">Exploring</span>
-    <span class="about-text">👁️ Computer Vision<br>🦾 Robotics<br>🖥️ HCI</span>
-  </div>
-</div>
-
-</div>
-
----
-
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
   
@@ -114,145 +88,45 @@
 
 </div>
 
----
-
-## 🚀 Featured Projects
-
-<div class="grid-container">
-
-  <!-- Project 1 -->
-  <div class="card">
-    <div class="card-header">
-      <span class="card-title">🧠 Clarity AI</span>
-      <a href="https://github.com/raayraay69">🔗</a>
-    </div>
-    <div class="card-desc">
-      Private AI journaling companion with fully offline inference, 3D visualizations & sentiment tracking.
-    </div>
-    <div class="tech-stack">
-      <span class="tech-tag">On-Device AI</span>
-      <span class="tech-tag">3D Graphics</span>
-      <span class="tech-tag">Privacy</span>
-    </div>
-  </div>
-
-  <!-- Project 2 -->
-  <div class="card">
-    <div class="card-header">
-      <span class="card-title">📱 Box-Black</span>
-      <a href="https://github.com/raayraay69">🔗</a>
-    </div>
-    <div class="card-desc">
-      Autonomous AI agent platform for mobile with local LLMs for multi-step tasks.
-    </div>
-    <div class="tech-stack">
-      <span class="tech-tag">Edge AI</span>
-      <span class="tech-tag">Agents</span>
-      <span class="tech-tag">Native Runtime</span>
-    </div>
-  </div>
-
-  <!-- Project 3 -->
-  <div class="card">
-    <div class="card-header">
-      <span class="card-title">🔍 BlueLedger</span>
-      <a href="https://github.com/raayraay69">🔗</a>
-    </div>
-    <div class="card-desc">
-      Police accountability tracking platform combining public incident data with community oversight.
-    </div>
-    <div class="tech-stack">
-      <span class="tech-tag">Civic Tech</span>
-      <span class="tech-tag">Crowdsourcing</span>
-      <span class="tech-tag">Impact</span>
-    </div>
-  </div>
-
-  <!-- Project 4 -->
-  <div class="card">
-    <div class="card-header">
-      <span class="card-title">🔬 MindBloom EEG</span>
-      <a href="https://github.com/raayraay69/mindbloom-eeg">🔗</a>
-    </div>
-    <div class="card-desc">
-      EEG-based schizophrenia assessment: research paper, ML pipeline & web application.
-    </div>
-    <div class="tech-stack">
-      <span class="tech-tag">Healthcare AI</span>
-      <span class="tech-tag">Research</span>
-      <span class="tech-tag">ML Pipeline</span>
-    </div>
-  </div>
-
-  <!-- Project 5 -->
-  <div class="card">
-    <div class="card-header">
-      <span class="card-title">🤖 Gemini CLI</span>
-      <a href="https://github.com/raayraay69/gemini-cli">🔗</a>
-    </div>
-    <div class="card-desc">
-      Open-source AI agent bringing Gemini directly into your terminal.
-    </div>
-    <div class="tech-stack">
-      <span class="tech-tag">TypeScript</span>
-      <span class="tech-tag">CLI</span>
-      <span class="tech-tag">GenAI</span>
-    </div>
-  </div>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats & Activity
-
-<!-- Trophies -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=raayraay69&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="Trophies" />
-</a>
-
-<br/><br/>
-
-<!-- Stats Cards -->
-<div class="stats-container">
-  <img src="https://github-readme-stats.vercel.app/api?username=raayraay69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raayraay69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Languages" />
-</div>
-
-<br/><br/>
-
-<!-- Streak -->
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raayraay69&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-</a>
-
-<br/><br/>
-
-<!-- Contribution Graph -->
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raayraay69&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=raayraay69&style=for-the-badge&color=58A6FF" alt="Profile Views" />
+<h2 align="center">🚀 Featured Projects</h2>
 
-<br/><br/>
-
-<a href="https://raayraay69.github.io/eric-catalog/">
-  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-raayraay69.github.io-00D4AA?style=for-the-badge&logoColor=white" alt="Visit Portfolio" />
-</a>
-
-**Thanks for visiting! Let's build something amazing together 🚀**
-
-</div>
+<table align="center" border="0" width="100%">
+  <thead>
+    <tr>
+      <th width="25%">Project</th>
+      <th width="50%">Description</th>
+      <th width="25%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/raayraay69"><b>🧠 Clarity AI</b></a>
+      </td>
+      <td>Private AI journaling companion with fully offline inference, 3D visualizations & sentiment tracking.</td>
+      <td>
+        <img src="https://img.shields.io/badge/On--Device_AI-black?style=flat-square&color=21262d">
+        <img src="https://img.shields.io/badge/3D_Graphics-black?style=flat-square&color=21262d">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/raayraay69"><b>📱 Box-Black</b></a>
+      </td>
+      <td>Autonomous AI agent platform for mobile with local LLMs for multi-step tasks.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Edge_AI-black?style=flat-square&color=21262d">
+        <img src="https://img.shields.io/badge/Native_Agents-black?style=flat-square&color=21262d">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/raayraay69"><b>🔍 BlueLedger</b></a>
+      </td>
+      <td>Police accountability tracking platform combining public incident data with community oversight.</td>
+      <td>
+        <img src="https://img.shields.io/badge/Civic_Tech-black?style=flat-square&color=21262d">
+        <img
+        
